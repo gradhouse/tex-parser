@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "tex-parser"
 version = "0.1.0"
-description = "tex-parser is a python library that parses TeX and LaTeX source files into structured representations of document hierarchy, text, mathematics, figures, citations, and macros."
+description = "Python tool that parses TeX and LaTeX source files into structured representations of document hierarchy, text, mathematics, figures, citations, and macros."
 authors = [{name = "Jason Stuber"}]
 license = {text = "MIT"}
 readme = "README.md"

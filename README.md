@@ -4,7 +4,9 @@
 
 ## 1. Overview
 
-tex-parser is a python library that parses TeX and LaTeX source files into structured representations of document hierarchy, text, mathematics, figures, citations, and macros.
+tex-parser is a python tool that parses TeX and LaTeX source files into structured representations of document hierarchy, text, mathematics, figures, citations, and macros.
+
+- [Project Wiki](https://github.com/gradhouse/tex-parser/wiki)
 
 ## 2. Installation
 
@@ -23,3 +25,4 @@ pip install -e ".[test]"
 ## 3. License
 
 Licensed under the MIT License. See the LICENSE file for more details.
+
